@@ -1,0 +1,7 @@
+{
+    "Face Detection Confidence": 0.7537634408602151,
+    "Blink Detection Threshold": 0.1,
+    "Head Pose Tolerance (degrees)": 31.0752688172043,
+    "Gaze Tracking Sensitivity": 0.7193548387096774,
+    "Environment Scan Interval (sec)": 30.0
+}
