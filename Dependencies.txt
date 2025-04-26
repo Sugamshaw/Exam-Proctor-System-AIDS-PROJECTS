@@ -1,0 +1,13 @@
+Python 3.x
+OpenCV (cv2)
+NumPy
+Tkinter
+ttk
+Pillow (PIL)
+dlib
+MediaPipe
+TensorFlow
+scipy
+pandas
+matplotlib
+sqlite3

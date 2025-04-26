@@ -1,0 +1,69 @@
+Session ID,Student ID,Start Time,End Time,Video Path,Alert Count,Attention Score
+41,6,2025-04-25 10:52:36,2025-04-25 10:53:52,sessions/session_20250425_105236/recording.mp4,64,0.0
+
+Alerts:
+Timestamp,Alert Type,Message,Severity
+2025-04-25 10:52:38,Extended gaze deviation (2.1s),Extended gaze deviation (2.1s),Medium
+2025-04-25 10:52:50,Extended gaze deviation (2.1s),Extended gaze deviation (2.1s),Medium
+2025-04-25 10:52:56,Extended gaze deviation (2.1s),Extended gaze deviation (2.1s),Medium
+2025-04-25 10:52:57,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:52:57,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:52:57,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:52:57,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:52:58,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:52:58,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:52:58,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:52:58,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:52:58,Extended gaze deviation (2.1s),Extended gaze deviation (2.1s),Medium
+2025-04-25 10:53:00,Extended gaze deviation (2.1s),Extended gaze deviation (2.1s),Medium
+2025-04-25 10:53:01,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:53:01,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:53:01,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:53:01,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:53:01,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:53:01,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:53:02,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:53:02,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:53:02,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:53:02,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:53:02,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:53:02,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:53:02,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:53:02,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:53:02,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:53:03,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:53:03,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:53:03,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:53:03,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:53:03,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:53:03,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:53:03,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:53:03,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:53:03,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:53:03,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:53:04,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:53:04,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:53:04,Extended gaze deviation (3.4s),Extended gaze deviation (3.4s),Medium
+2025-04-25 10:53:06,Extended gaze deviation (2.1s),Extended gaze deviation (2.1s),Medium
+2025-04-25 10:53:08,Extended gaze deviation (2.1s),Extended gaze deviation (2.1s),Medium
+2025-04-25 10:53:13,Extended gaze deviation (2.1s),Extended gaze deviation (2.1s),Medium
+2025-04-25 10:53:15,Extended gaze deviation (2.1s),Extended gaze deviation (2.1s),Medium
+2025-04-25 10:53:39,Extended gaze deviation (2.1s),Extended gaze deviation (2.1s),Medium
+2025-04-25 10:53:41,Extended gaze deviation (2.1s),Extended gaze deviation (2.1s),Medium
+2025-04-25 10:53:43,Extended gaze deviation (2.2s),Extended gaze deviation (2.2s),Medium
+2025-04-25 10:53:45,Extended gaze deviation (2.1s),Extended gaze deviation (2.1s),Medium
+2025-04-25 10:53:48,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:53:49,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:53:49,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:53:49,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:53:49,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:53:49,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:53:49,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:53:50,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:53:50,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:53:50,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:53:50,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:53:50,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:53:51,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:53:51,No face detected,No face detected - Student may be absent,High
+2025-04-25 10:53:51,No face detected,No face detected - Student may be absent,High
