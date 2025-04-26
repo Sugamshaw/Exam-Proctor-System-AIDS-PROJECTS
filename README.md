@@ -84,6 +84,17 @@ Before running the application, ensure you have the following installed:
 
     * Use the "Settings" tab to adjust detection thresholds, alert levels, storage paths, and export options.
 
+## Demo
+
+Below is a screenshot of the AI Exam Proctoring System in action, showing the monitoring interface with real-time face mesh, gaze tracking, and alerts:
+
+![AI Exam Proctoring System Demo](https://github.com/Sugamshaw/Exam-Proctor-System-AIDS-PROJECTS/blob/main/images/Screenshot%202025-04-26%20144332.jpg)
+![AI Exam Proctoring System Demo](https://github.com/Sugamshaw/Exam-Proctor-System-AIDS-PROJECTS/blob/main/images/Screenshot%202025-04-26%20144447.jpg)
+![AI Exam Proctoring System Demo](https://github.com/Sugamshaw/Exam-Proctor-System-AIDS-PROJECTS/blob/main/images/Screenshot%202025-04-26%20144524.jpg)
+![AI Exam Proctoring System Demo](https://github.com/Sugamshaw/Exam-Proctor-System-AIDS-PROJECTS/blob/main/images/Screenshot%202025-04-26%20144728.png)
+![AI Exam Proctoring System Demo](https://github.com/Sugamshaw/Exam-Proctor-System-AIDS-PROJECTS/blob/main/images/Screenshot%202025-04-26%20144636.jpg)
+![AI Exam Proctoring System Demo](https://github.com/Sugamshaw/Exam-Proctor-System-AIDS-PROJECTS/blob/main/images/Screenshot%202025-04-26%20144723.jpg)
+
 ## Directory Structure
 ```bash
 ai-exam-proctoring-system/
